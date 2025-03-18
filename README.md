@@ -1,4 +1,6 @@
-## Hello world
+## Hi 👋 I'm Supul!, Glad to see you here
+
+
 
 <!--
 **supulk/supulk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
