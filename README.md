@@ -9,8 +9,8 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 
 ## 🌱 Currently Learning
 - *React.js* for dynamic web applications
-- *Android Studio + Kotlin* for mobile application development
-- *Netbeans + Java* restAPI and client server programming
+- *Android Studio* + *Kotlin* for mobile application development
+- *Netbeans* + *Java* for restAPI and client server programming
 
 
 <!--
