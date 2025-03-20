@@ -17,7 +17,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 ## 🛠  Tech Stack
 
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
