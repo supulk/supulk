@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Supul!, Glad to see you here
 
-CS Undergraduate | Building the Future, One Line at a Time XD
+CS Undergraduate | Building the Future, One Line at a Time
 
 Always eager to learn and grow, experimenting with new tools and frameworks!
 
