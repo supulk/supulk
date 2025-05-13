@@ -11,6 +11,7 @@ Always eager to learn and grow, experimenting with new tools and frameworks!
 - *React.js* for dynamic web applications
 - *Android Studio* + *Kotlin* for mobile application development
 - *Spring* for restAPI and client server programming
+- AWS Certified Cloud Practitioner
 
 --
 
