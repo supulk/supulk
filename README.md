@@ -8,10 +8,10 @@
     **Azure** for Cloud computing <br>
     **Linux Automation and DevOps basics**<br>
 
-- 🍏 Ask me about my Revelations from the last spotify wrapped <br>
+- 🍏 Ask me about the revelations from my last spotify wrapped <br>
   
 - ☕ **Fun fact**: <br>
-  It it doesn't compile, its because an evil witch has used all her power to delete a semicolon in your import statement
+  Despite him being cool as hell, there are no records of alexander the great using arch as his daily driver
   
 - 🕊️ **Reach me at**: <br>
   supul.me@gmail.com
