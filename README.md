@@ -11,7 +11,7 @@
 - 🍏 Ask me about the revelations from my last spotify wrapped <br>
   
 - ☕ **Fun fact**: <br>
-  Despite him being cool as hell, there are no records of alexander the great using arch as his daily driver
+  Cure to world hunger is probably everyone collectively switching to arch
   
 - 🕊️ **Reach me at**: <br>
   supul.me@gmail.com
