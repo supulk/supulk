@@ -7,11 +7,9 @@
 - 🌱 **I’m currently learning**:<br>
     **Azure** for Cloud computing <br>
     **Linux Automation and DevOps basics**<br>
-
-- 🍏 Ask me about the revelations from my last spotify wrapped <br>
-  
+    
 - ☕ **Fun fact**: <br>
-  Cure to world hunger is probably everyone collectively switching to arch
+  using arch grants you the right to write shitty code and brag about it
   
 - 🕊️ **Reach me at**: <br>
   supul.me@gmail.com
