@@ -6,10 +6,8 @@
 
 - 🌱 **I’m currently learning**:<br>
     **Azure** for Cloud computing <br>
-    **Linux Automation and DevOps basics**<br>
-    
-- ☕ **Fun fact**: <br>
-  using arch grants you the right to write shitty code and brag about it
+    **Linux Automation and DevOps**<br>
+  
   
 - 🕊️ **Reach me at**: <br>
   supul.me@gmail.com
