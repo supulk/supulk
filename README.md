@@ -2,7 +2,6 @@
 - 👷🏼 **I'm Currently working on**: <br>
   A portfolio website using react <br> 
   A blogger.com replica using MERN stack<br>
-  An unnamed Android project
 
 - 🌱 **I’m currently learning**:<br>
     **Azure** for Cloud computing <br>
